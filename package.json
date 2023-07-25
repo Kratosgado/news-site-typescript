@@ -1,0 +1,19 @@
+{
+  "name": "news-site",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "@types/node": "^20.4.4",
+    "@types/react": "^18.2.16",
+    "@types/styled-components": "^5.1.26",
+    "next": "^13.4.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.0.5",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
